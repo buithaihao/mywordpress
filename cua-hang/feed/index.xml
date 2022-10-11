@@ -12,7 +12,7 @@
 	<atom:link href="https://buithaihao.github.io/mywordpress/cua-hang/feed/" rel="self" type="application/rss+xml" />
 	<link>https://buithaihao.github.io/mywordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Wed, 05 Oct 2022 14:50:34 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 11 Oct 2022 01:46:42 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,7 +28,19 @@
 		<pubDate>Wed, 05 Oct 2022 13:52:53 +0000</pubDate>
 				<guid isPermaLink="false">https://buithaihao.github.io/mywordpress/?post_type=product&#038;p=526</guid>
 
-					<description><![CDATA[Highest quality healthy products Free delivery for first order Always best quality]]></description>
+					<description><![CDATA[<ul class="ul-style check">
+ 	<li>Highest quality healthy products</li>
+ 	<li>Free delivery for first order</li>
+ 	<li>Always best quality</li>
+</ul>
+<div style="display: flex;">
+<p><i class="fa-brands fa-facebook-f"></i></p>
+<p><i class="fa-brands fa-pinterest-p"></i></p>
+<p><i class="fa-brands fa-linkedin-in"></i></p>
+<p><i class="fa-brands fa-twitter"></i></p>
+<p><i class="fa-brands fa-reddit-alien"></i></p>
+</div>
+]]></description>
 										<content:encoded><![CDATA[<ul class="ul-style check">
 <li>Highest quality healthy products</li>
 <li>Free delivery for first order</li>
