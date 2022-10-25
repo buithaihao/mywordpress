@@ -12,13 +12,13 @@
 	<atom:link href="https://buithaihao.github.io/mywordpress/danh-muc-san-pham/home-decor/coffee-tea/feed/" rel="self" type="application/rss+xml" />
 	<link>https://buithaihao.github.io/mywordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Wed, 05 Oct 2022 14:35:17 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 17 Oct 2022 16:59:03 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
 	<item>
 		<title>24 Can Soda Variety Pack</title>
 		<link>https://buithaihao.github.io/mywordpress/san-pham/24-can-soda-variety-pack/</link>
@@ -28,7 +28,19 @@
 		<pubDate>Wed, 05 Oct 2022 12:47:45 +0000</pubDate>
 				<guid isPermaLink="false">https://buithaihao.github.io/mywordpress/?post_type=product&#038;p=498</guid>
 
-					<description><![CDATA[Highest quality healthy products Free delivery for first order Always best quality]]></description>
+					<description><![CDATA[Write a review
+<ul class="ul-style check">
+ 	<li>Highest quality healthy products</li>
+ 	<li>Free delivery for first order</li>
+ 	<li>Always best quality</li>
+</ul>
+Quantity <strong><span style="color: #ff6600;">In stock</span></strong>
+
+<span style="word-spacing: 10px; display: flex;"><i class="fa-brands fa-facebook-f"></i>
+<i class="fa-brands fa-pinterest-p"></i>
+<i class="fa-brands fa-linkedin-in"></i>
+<i class="fa-brands fa-twitter"></i>
+<i class="fa-brands fa-reddit-alien"></i></span>]]></description>
 										<content:encoded><![CDATA[<ul class="ul-style check">
 <li>Highest quality healthy products</li>
 <li>Free delivery for first order</li>
